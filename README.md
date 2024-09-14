@@ -30,3 +30,11 @@ src
     │   JournalEntry.js # JournalEntry component for each journal entry
     │   JournalEntry.css # CSS for JournalEntry component
 ```
+## Features
+
+- Users can log their trips with titles, descriptions, and dates.
+
+- Dynamic list of entries displayed on the home page.
+
+- Clean, responsive design.
+
