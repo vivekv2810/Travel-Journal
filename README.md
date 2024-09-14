@@ -107,3 +107,11 @@ To add new entries, modify the initial ```entries``` state in ```App.js``` by ad
 
 - Add functionality to edit or delete existing entries.
 
+## License
+
+This project is open source and available under the MIT License.
+
+## Contact
+
+For any questions or suggestions, feel free to reach out at vivekvardhan43862@gmail.com.
+
