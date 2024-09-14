@@ -47,3 +47,32 @@ Make sure you have the following installed:
 - Node.js (version 12 or higher)
 
 - npm (Node Package Manager)
+
+## Installation Steps
+
+1. Clone the repository:
+
+```
+git clone https://github.com/your-username/travel-journal.git
+```
+
+2. Navigate into the project directory:
+
+```
+cd travel-journal
+```
+
+3. Install the project dependencies:
+
+```
+npm install
+```
+
+4. Start the development server:
+
+```
+npm start
+```
+
+5. Open your browser and navigate to ```http://localhost:3000``` to see the app in action.
+
