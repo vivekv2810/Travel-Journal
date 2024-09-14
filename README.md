@@ -101,9 +101,9 @@ To add new entries, modify the initial ```entries``` state in ```App.js``` by ad
 
 ## Future Enhancements
 
-Add a form to allow users to input new journal entries dynamically.
+- Add a form to allow users to input new journal entries dynamically.
 
-Integrate local storage or a database to persist user data.
+- Integrate local storage or a database to persist user data.
 
-Add functionality to edit or delete existing entries.
+- Add functionality to edit or delete existing entries.
 
