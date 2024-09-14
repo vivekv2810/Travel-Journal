@@ -1,2 +1,32 @@
-# Travel-Journal
-The Travel Journal application is a simple React-based project that allows users to log their trips and write entries about their travel experiences. This project is designed to help beginners understand the basics of React, including the creation and management of components, handling state, and working with props.
+# Travel Journal
+
+## Project Overview
+
+The **Travel Journal** application is a simple React-based project that allows users to log their trips and write entries about their travel experiences. This project is designed to help beginners understand the basics of React, including the creation and management of components, handling state, and working with props.
+
+## Project Aim
+
+- To help users log their trips and experiences.
+- To provide a practical and engaging way to learn React for front-end development.
+
+## Tech Stack
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
+
+## Project Structure
+
+```
+src
+│   App.js              # Main React component
+│   App.css             # CSS for App component
+│   index.js            # Main entry file
+│
+└───components           # Folder for reusable components
+    │   Header.js       # Header component for the app
+    │   Header.css      # CSS for Header component
+    │   JournalEntry.js # JournalEntry component for each journal entry
+    │   JournalEntry.css # CSS for JournalEntry component
+```
