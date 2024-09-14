@@ -38,3 +38,12 @@ src
 
 - Clean, responsive design.
 
+## How to Run the Project
+
+## Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js (version 12 or higher)
+
+- npm (Node Package Manager)
