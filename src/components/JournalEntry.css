@@ -1,0 +1,20 @@
+.journal-entry {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+  
+  .journal-entry h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .journal-entry p {
+    font-size: 1.2em;
+    color: #555;
+  }
+  
+  .journal-entry small {
+    color: #888;
+  }  
