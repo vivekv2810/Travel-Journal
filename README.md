@@ -76,3 +76,12 @@ npm start
 
 5. Open your browser and navigate to ```http://localhost:3000``` to see the app in action.
 
+## Folder Structure
+
+- **App.js**: The main application logic that handles state and renders journal entries.
+
+- **components**: Contains the Header and JournalEntry components, which are responsible for rendering the header and each individual journal entry.
+
+- **App.css**: Styles specific to the layout of the application.
+
+- **JournalEntry.css** and **Header.css**: Component-specific styles to maintain separation of concerns.
