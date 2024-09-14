@@ -86,3 +86,24 @@ npm start
 
 - **JournalEntry.css** and **Header.css**: Component-specific styles to maintain separation of concerns.
 
+## Customization
+
+To add new entries, modify the initial ```entries``` state in ```App.js``` by adding new objects with the following structure:
+
+```
+{
+  id: 3, // unique ID for the entry
+  title: "New Trip Title",
+  description: "Description of the trip",
+  date: "Date of the trip",
+}
+```
+
+## Future Enhancements
+
+Add a form to allow users to input new journal entries dynamically.
+
+Integrate local storage or a database to persist user data.
+
+Add functionality to edit or delete existing entries.
+
