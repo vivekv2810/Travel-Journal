@@ -1,4 +1,4 @@
-# Travel Journal
+# Travel Journal 
 
 ## Project Overview
 
